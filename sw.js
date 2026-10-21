@@ -1,5 +1,5 @@
 /* Week 3 offline workbook - d189afc6a560 */
-const CACHE_NAME = 'ise311-week3-d189afc6a560';
+const CACHE_NAME = 'ise311-week3-fixed-20261021';
 const PREFIX = 'ise311-week3-';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {
