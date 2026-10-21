@@ -1,0 +1,24 @@
+{
+  "name": "ISE 311 Week 3 — HTML Basics Workbook",
+  "short_name": "ISE311 Week3",
+  "description": "Offline interactive HTML Basics workbook for ISE 311 Week 3",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF9FC",
+  "theme_color": "#F3ECFF",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
